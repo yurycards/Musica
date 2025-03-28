@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\Musica\Musica\bin\Debug\net9.0\Musica.exe
+C:\Users\user\Downloads\Musica\Musica\bin\Debug\net9.0\Musica.deps.json
+C:\Users\user\Downloads\Musica\Musica\bin\Debug\net9.0\Musica.runtimeconfig.json
+C:\Users\user\Downloads\Musica\Musica\bin\Debug\net9.0\Musica.dll
+C:\Users\user\Downloads\Musica\Musica\bin\Debug\net9.0\Musica.pdb
+C:\Users\user\Downloads\Musica\Musica\obj\Debug\net9.0\Musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Musica\Musica\obj\Debug\net9.0\Musica.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Musica\Musica\obj\Debug\net9.0\Musica.AssemblyInfo.cs
+C:\Users\user\Downloads\Musica\Musica\obj\Debug\net9.0\Musica.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Musica\Musica\obj\Debug\net9.0\Musica.sourcelink.json
+C:\Users\user\Downloads\Musica\Musica\obj\Debug\net9.0\Musica.dll
+C:\Users\user\Downloads\Musica\Musica\obj\Debug\net9.0\refint\Musica.dll
+C:\Users\user\Downloads\Musica\Musica\obj\Debug\net9.0\Musica.pdb
+C:\Users\user\Downloads\Musica\Musica\obj\Debug\net9.0\Musica.genruntimeconfig.cache
+C:\Users\user\Downloads\Musica\Musica\obj\Debug\net9.0\ref\Musica.dll
